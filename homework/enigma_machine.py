@@ -43,4 +43,4 @@ def apply_enigma_machine(letter, machine):
 
     letter = apply_plugboard(letter, machine["plugboard"])
 
-    return lette
+    return letter
